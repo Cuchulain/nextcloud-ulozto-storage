@@ -14,7 +14,7 @@
     <author mail="posta@jancejka.cz" >Jan Čejka</author>
     <namespace>UloztoStorageProvider</namespace>
     <category>files</category>
-    <bugs>https://jancejka.cz</bugs>
+    <bugs>https://github.com/Cuchulain/nextcloud-ulozto-storage/issues</bugs>
     <dependencies>
         <nextcloud min-version="28" max-version="28"/>
     </dependencies>
